@@ -1,0 +1,24 @@
+html{
+    width: 100%;
+    
+}
+body{
+    background-color: #2F3B55;
+    overflow: hidden;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.container{
+    width: 100%;
+    position: absolute;
+    top: -75px;
+    left: 0;
+
+}
